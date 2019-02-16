@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.vw-cover {
+    margin-top: 44px;
+}
+.vw-img {
+    width: 100%;
+    margin-bottom: 25px;
+}
+.vw-title {
+    margin-top: 25px;
+}
+.vw-text {
+    padding: 0 15px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+}
+.vw-text p {
+    margin-bottom: 25px;
+}
+.vw-credit {
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
